@@ -29,6 +29,10 @@ The main repositories are:
 
 *Thank you for considering to contribute to this project! 👍*
 
+Here is an introducton video 🎞 [Join the 'Task Tracker Systems' team!](https://media.ccc.de/v/37c3-lightningtalks-58047-join-the-task-tracker-systems-team-):
+
+https://github.com/Task-Tracker-Systems/.github/assets/1594340/4ab87766-f47e-4bb2-9296-a1d6d87e433b
+
 * If you know which area interests you more: Visit the respective repository, consult their contributing guideline (if available) or contact the maintainers directly.
 * Else, please use the contact details given in the project's description or in the profile information of the individual [project members](https://github.com/orgs/Task-Tracker-Systems/people).
 * Don't be shy. Start to contribute *today*!
